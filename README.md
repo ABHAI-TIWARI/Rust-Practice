@@ -8,3 +8,5 @@ Run "cargo init --bin" to generate a full Rust binary project with Cargo.toml, s
 cargo build
 
 cargo run
+
+cargo new "project-name"
